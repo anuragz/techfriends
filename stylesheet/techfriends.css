@@ -1,0 +1,17 @@
+body {
+	background-color: silver;
+	position: relative;
+	margin: 20px;
+	padding: 20px;
+}
+h1 {  
+  font-size:50px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.centerdiv{
+  width:40%;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
